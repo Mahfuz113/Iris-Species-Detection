@@ -1,1 +1,1 @@
-# Iris-Species-Detection
+# Iris Species Detection
